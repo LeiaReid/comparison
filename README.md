@@ -1,37 +1,7 @@
-## Welcome to GitHub Pages
+## Child mobility comparison
 
-You can use the [editor on GitHub](https://github.com/LeiaReid/comparison/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+<script async src="//jsfiddle.net/LeiaR/ucrxkLqz/embed/result/"></script>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Using child welfare spending, and educational spending, this visualisation aims to highlight the toll of austerity measures on children's support systems. These systems are inplace to allow children to excel, and thrive in life. 
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LeiaReid/comparison/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+But these drastic cuts, will gut the welfare budget for children, and have started creeping into 'ring-fenced' education, as explained in [teaching] (https://leiareid.github.io/teaching/).
